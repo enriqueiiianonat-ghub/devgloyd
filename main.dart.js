@@ -7944,7 +7944,7 @@ Gw(a){return new A.Gv(a)},
 X1(){var s=0,r=A.M(t.w9),q,p,o
 var $async$X1=A.N(function(a,b){if(a===1)return A.J(b,r)
 for(;;)switch(s){case 0:s=3
-return A.O(A.aA6(A.ez("https://devgloyd-api.onrender.com/api/products",0,null)),$async$X1)
+return A.O(A.aA6(A.ez("https://qridme-1.onrender.com/api/products",0,null)),$async$X1)
 case 3:p=b
 o=p.b
 if(o!==200)throw A.h(A.Gw("Failed to load products ("+o+")"))
@@ -7958,7 +7958,7 @@ return A.L($async$X1,r)},
 X0(a){var s=0,r=A.M(t.N),q,p,o
 var $async$X0=A.N(function(b,c){if(b===1)return A.J(c,r)
 for(;;)switch(s){case 0:s=3
-return A.O(A.aA6(A.ez("https://devgloyd-api.onrender.com"+("/api/products/"+A.EX(2,a,B.W,!1)),0,null)),$async$X0)
+return A.O(A.aA6(A.ez("https://qridme-1.onrender.com"+("/api/products/"+A.EX(2,a,B.W,!1)),0,null)),$async$X0)
 case 3:p=c
 o=p.b
 if(o===404)throw A.h(A.Gw("Product not found"))
@@ -7971,7 +7971,7 @@ case 1:return A.K(q,r)}})
 return A.L($async$X0,r)},
 Gx(a,b){var s=0,r=A.M(t.N),q,p,o,n,m,l
 var $async$Gx=A.N(function(c,d){if(c===1)return A.J(d,r)
-for(;;)switch(s){case 0:p=A.ez("https://devgloyd-api.onrender.com/api/contact",0,null)
+for(;;)switch(s){case 0:p=A.ez("https://qridme-1.onrender.com/api/contact",0,null)
 o=t.N
 n=A.ao(["Content-Type","application/json"],o,o)
 s=3
@@ -7989,7 +7989,7 @@ case 1:return A.K(q,r)}})
 return A.L($async$Gx,r)},
 X_(a){var s=0,r=A.M(t.N),q,p,o,n,m,l
 var $async$X_=A.N(function(b,c){if(b===1)return A.J(c,r)
-for(;;)switch(s){case 0:p=A.ez("https://devgloyd-api.onrender.com/api/checkout",0,null)
+for(;;)switch(s){case 0:p=A.ez("https://qridme-1.onrender.com/api/checkout",0,null)
 o=t.N
 n=A.ao(["Content-Type","application/json"],o,o)
 s=3
